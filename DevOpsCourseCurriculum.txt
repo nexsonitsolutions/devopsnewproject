@@ -1,0 +1,14 @@
+DevOps Course Curriculum
+====================
+Tools Covered:
+Linux and Shell Scripting
+Git and Github
+Jenkins
+Docker
+Kubernetes
+Ansible
+Terraform
+AWS
+Prometheus
+Grafana
+Jira
