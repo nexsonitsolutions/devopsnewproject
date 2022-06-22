@@ -13,3 +13,5 @@ Prometheus - monitoring servers, apps, and services
 Grafana - Data visualization
 Jira - Issue tracking tool
 SonarQube - Code Quality Check
+Tomcat - Deployments
+Nexus - artifact management
